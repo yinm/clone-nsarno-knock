@@ -5,7 +5,7 @@ module Knock
     desc 'Creates a Knock initializer.'
 
     def copy_initializer
-      template 'knock.rb', 'config/initializer/knock.rb'
+      template 'knock.rb', 'config/initializers/knock.rb'
     end
   end
 end
