@@ -52,3 +52,4 @@ node_modules/
 test/dummy/db/test.sqlite3
 test/dummy/log/test.log
 test/tmp/
+test/dummy/tmp
